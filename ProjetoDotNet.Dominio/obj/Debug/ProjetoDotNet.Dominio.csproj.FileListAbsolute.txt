@@ -1,0 +1,10 @@
+F:\Devtree\Aulas\dotNet\ProjetoDotNet\ProjetoDotNet.Dominio\bin\Debug\ProjetoDotNet.Dominio.dll
+F:\Devtree\Aulas\dotNet\ProjetoDotNet\ProjetoDotNet.Dominio\bin\Debug\ProjetoDotNet.Dominio.pdb
+F:\Devtree\Aulas\dotNet\ProjetoDotNet\ProjetoDotNet.Dominio\obj\Debug\ProjetoDotNet.Dominio.csprojResolveAssemblyReference.cache
+F:\Devtree\Aulas\dotNet\ProjetoDotNet\ProjetoDotNet.Dominio\obj\Debug\ProjetoDotNet.Dominio.dll
+F:\Devtree\Aulas\dotNet\ProjetoDotNet\ProjetoDotNet.Dominio\obj\Debug\ProjetoDotNet.Dominio.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoDotNet\ProjetoDotNet.Dominio\bin\Debug\ProjetoDotNet.Dominio.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoDotNet\ProjetoDotNet.Dominio\bin\Debug\ProjetoDotNet.Dominio.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoDotNet\ProjetoDotNet.Dominio\obj\Debug\ProjetoDotNet.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoDotNet\ProjetoDotNet.Dominio\obj\Debug\ProjetoDotNet.Dominio.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoDotNet\ProjetoDotNet.Dominio\obj\Debug\ProjetoDotNet.Dominio.pdb
